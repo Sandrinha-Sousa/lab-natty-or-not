@@ -20,22 +20,23 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Financiamento Imobiliário
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Trata-se de um pequenino vídeo com o desenho de uma casa com uma chave ao lado incentivando a população a adquirir sua casa própria através de financiamento imobiliário.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+-Copilot
+-Chat GPT
+-Clipchamp
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Pesquisa de imagens, frases incentivadoras e música de fundo.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Vídeo curto que passa a mensagem de positivismo para um financiamento imobiliário.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
 ```
 
 ### Exemplos e Insigths
